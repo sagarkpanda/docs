@@ -434,7 +434,7 @@ const config = {
   ],
   customFields: {
     isTesting: process.env.TESTING || false,
-    mendableAnonKey: "ANON_KEY_HERE",
+    mendableAnonKey: "a1ba0c10-71f9-4351-b236-28f05eddc165",
   },
 };
 
